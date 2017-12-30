@@ -1,2 +1,4 @@
 com\manager\credentials\controllers\MainController.class
 com\manager\credentials\WebAppInitializer.class
+com\manager\credentials\controllers\filecipher\FileCipherController.class
+com\manager\credentials\beans\CredentialDTO.class
